@@ -1,4 +1,4 @@
-h1 align="center">
+ align="center">
   <img src="https://files.catbox.moe/d8yplr.jpg" width="700" alt="Banner"/>
 
 # 👋 ¡Hola! Soy Dani
