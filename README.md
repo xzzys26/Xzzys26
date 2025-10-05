@@ -1,6 +1,5 @@
-<div align="center">
-  
-![Header](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+h1 align="center">
+  <img src="https://files.catbox.moe/d8yplr.jpg" width="700" alt="Banner"/>
 
 # 👋 ¡Hola! Soy Dani
 ### **💻 Desarrollador | 🎯 Alias: Leo xzzsy | 🚀 En constante aprendizaje**
