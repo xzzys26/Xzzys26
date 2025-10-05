@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://files.catbox.moe/d8yplr.jpg" width="700" alt="Banner"/>
 
-# 👋 ¡Hola! Soy Dani 
+# 🌟 ¡Hola! Soy Dani 
 ### **💻 Desarrollador | 🎯 Alias: Leo xzzsy**
 
 [![GitHub](https://img.shields.io/badge/GitHub-xzzys26-181717?style=for-the-badge&logo=github)](https://github.com/xzzys26)
