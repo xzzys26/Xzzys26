@@ -47,6 +47,6 @@
 [![Email](https://img.shields.io/badge/Email-xzzysultra@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:xzzysultra@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-xzzys26-181717?style=for-the-badge&logo=github)](https://github.com/xzzys26)
 
-**✨ "Code, Learn, Repeat" ✨**
+**✨ "Leo Xzzsy 2025-2026" ✨**
 
 </div>
