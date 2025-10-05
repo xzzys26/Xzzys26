@@ -1,4 +1,4 @@
-h1 align="center">
+
   <img src="https://files.catbox.moe/d8yplr.jpg" width="700" alt="Gaara Ultra MD Banner"/>
 
 # 👋 ¡Hola! Soy Dani
