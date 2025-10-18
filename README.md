@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://files.catbox.moe/dn6kih.jpg" width="900" height="auto" alt="Dani - Desarrollador Banner" style="border-radius: 10px;"/>
 
-# 🌟 ¡Hola! Soy Dani
-### **💻 Desarrollador Full-Stack | 🎯 Alias: Leo xzzsy**
+# 👋🏻 ¡Hola! Soy Dani
+### **💻 Desarrollador | 🎯 Alias: Leo xzzsy**
 
 [![GitHub](https://img.shields.io/badge/GitHub-xzzys26-181717?style=for-the-badge&logo=github)](https://github.com/xzzys26)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/18097769423)
