@@ -80,7 +80,7 @@
 
 ### **¡Hablemos! Estoy disponible para colaboraciones y proyectos interesantes.**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-18097769423-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18097769423)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-https://wa.me/16503058299-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18097769423)
 [![Email](https://img.shields.io/badge/Email-xzzysultra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xzzysultra@gmail.com)
 [![GitHub](https://img.shields.io/badge/Portafolio-xzzys26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xzzys26)
 
