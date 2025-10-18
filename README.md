@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://files.catbox.moe/d8yplr.jpg" width="900" height="auto" alt="Dani - Desarrollador Banner" style="border-radius: 10px;"/>
+<img src="https://files.catbox.moe/dn6kih.jpg" width="900" height="auto" alt="Dani - Desarrollador Banner" style="border-radius: 10px;"/>
 
 # 🌟 ¡Hola! Soy Dani
 ### **💻 Desarrollador Full-Stack | 🎯 Alias: Leo xzzsy**
